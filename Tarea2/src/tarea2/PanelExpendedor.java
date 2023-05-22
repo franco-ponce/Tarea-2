@@ -1,2 +1,5 @@
-package tarea2;public class PanelExpendedor {
+package tarea2;
+
+public class PanelExpendedor {
+
 }
